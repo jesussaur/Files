@@ -1,0 +1,15 @@
+{
+	"file": "https://raw.githubusercontent.com/jesussaur/Files/master/AT_IDs_Lineages2.csv",
+	"name": "Test",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 5 }
+	]
+}
+ s
+# Maybe something to do with the array in the file? It's gotta be that.
