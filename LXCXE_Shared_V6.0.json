@@ -1,0 +1,18 @@
+{
+	"file": "https://raw.githubusercontent.com/jesussaur/Files/master/Book1.csv",
+	"name": "Shared_LXCXE",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Arabidopsis thaliana" },
+    { "type": "id", "index": 1, "name": "Picea abies"},
+    { "type": "id", "index": 2, "name": "Physcomitrella patens"},
+    { "type": "id", "index": 3, "name": "Marchantia polymorpha"},
+    { "type": "id", "index": 4, "name": "Klebsormidium nitens"},
+    { "type": "id", "index": 5, "name": "Chlamydomonas reinhardtii"}
+	],
+	"sets": [
+		{ "format": "binary", "start": 0, "end": 5 }
+	]
+}
