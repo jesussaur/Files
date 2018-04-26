@@ -1,10 +1,9 @@
 {
-	"file": "https://raw.githubusercontent.com/jesussaur/Files/master/Book1.csv",
+	"file": "https://raw.githubusercontent.com/jesussaur/Files/master/AT_IDs_Lineages.csv",
 	"name": "Shared_LXCXE",
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
-	"meta": 0,
+	"meta": 0
 	"sets": { "format": "binary", "start": 0, "end": 5 }
-	
 }
